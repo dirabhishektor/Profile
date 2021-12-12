@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+#profile-pic {
+	width: 40%;
+}
+
 /* Basic */
 
 	@-ms-viewport {
